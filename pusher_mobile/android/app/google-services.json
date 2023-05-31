@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "241716564029",
+    "project_id": "agoralive-banga",
+    "storage_bucket": "agoralive-banga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241716564029:android:90bc174616864c4fc2da54",
+        "android_client_info": {
+          "package_name": "com.imagineering.agoralivebangapusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241716564029-t7bpfmpnj5s0u3vrcchvn6m2j0rkq3gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSWBMqHHY7_3z3wMuZUN_QyPNf8RKLSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241716564029-t7bpfmpnj5s0u3vrcchvn6m2j0rkq3gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241716564029-bha93ijd32bnjvkat7kiep8l5ac4k46u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imagineering.agoralivebangapusher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
